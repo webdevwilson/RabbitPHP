@@ -1,0 +1,5 @@
+<?
+class TagManagerController extends CrudController{
+
+}
+?>

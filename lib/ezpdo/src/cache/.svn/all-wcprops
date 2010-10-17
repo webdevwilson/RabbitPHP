@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/cache
+END
+epCacheCachelite.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/cache/epCacheCachelite.php
+END
+epCacheMemcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/cache/epCacheMemcache.php
+END
+epCacheApc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/cache/epCacheApc.php
+END
+epCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/cache/epCache.php
+END

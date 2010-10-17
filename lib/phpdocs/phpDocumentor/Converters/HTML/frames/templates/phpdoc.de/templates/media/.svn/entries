@@ -1,0 +1,52 @@
+8
+
+dir
+54
+http://svn.rabbitphp.org/main/TRUNK/lib/phpdocs/phpDocumentor/Converters/HTML/frames/templates/phpdoc.de/templates/media
+http://svn.rabbitphp.org/main
+
+
+
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+60cfdba4-8d46-0410-9aa5-e545ed86bc99
+
+stylesheet.css
+file
+
+
+
+
+2010-10-17T17:54:37.000000Z
+aab1054d4f4e47700d2cd37a8d122eee
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+
+banner.css
+file
+
+
+
+
+2010-10-17T17:54:37.000000Z
+08b311e0a8784bdcfc07b8cf54fbbcdb
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+

@@ -1,0 +1,41 @@
+8
+
+dir
+54
+http://svn.rabbitphp.org/main/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/media
+http://svn.rabbitphp.org/main
+
+
+
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+60cfdba4-8d46-0410-9aa5-e545ed86bc99
+
+logo.jpg
+file
+
+
+
+
+2010-10-17T17:54:38.000000Z
+f74f61bc357fc98e373d911d59c610ed
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+has-props
+

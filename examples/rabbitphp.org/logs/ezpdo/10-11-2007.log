@@ -1,0 +1,4 @@
+Oct 11 08:07:32 epClassCompiler [info] Parsing file [/home/.richard/kerrywilson/rabbitphp.org/lib/ezpdo/src/orm/epObjectRelation.php] - start
+Oct 11 08:07:32 epClassParser [info] Parsing class [epObjectRelation]
+Oct 11 08:07:33 epClassParser [info] Parsing class [epObjectRelation] - end.
+Oct 11 08:07:33 epClassCompiler [info] Parsing file [/home/.richard/kerrywilson/rabbitphp.org/lib/ezpdo/src/orm/epObjectRelation.php] - end

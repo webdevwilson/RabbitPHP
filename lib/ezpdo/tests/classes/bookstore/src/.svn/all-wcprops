@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/classes/bookstore/src
+END
+eptAuthor.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/classes/bookstore/src/eptAuthor.php
+END
+eptBookstore.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/classes/bookstore/src/eptBookstore.php
+END
+eptBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/classes/bookstore/src/eptBase.php
+END
+eptBook.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/classes/bookstore/src/eptBook.php
+END
+eptContact.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/classes/bookstore/src/eptContact.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/tags
+END
+block.logged_in.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/tags/block.logged_in.php
+END
+block.not_logged_in.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/tags/block.not_logged_in.php
+END

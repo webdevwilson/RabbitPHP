@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/runtime
+END
+epQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/runtime/epQuery.php
+END
+epTransaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/runtime/epTransaction.php
+END
+epObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/runtime/epObject.php
+END
+epManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/runtime/epManager.php
+END

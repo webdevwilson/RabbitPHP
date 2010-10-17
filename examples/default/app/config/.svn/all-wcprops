@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/main/!svn/ver/48/TRUNK/examples/default/app/config
+END
+AppConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/main/!svn/ver/48/TRUNK/examples/default/app/config/AppConfiguration.class.php
+END
+DatabaseConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/main/!svn/ver/48/TRUNK/examples/default/app/config/DatabaseConfiguration.class.php
+END
+MailerConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/main/!svn/ver/48/TRUNK/examples/default/app/config/MailerConfiguration.class.php
+END

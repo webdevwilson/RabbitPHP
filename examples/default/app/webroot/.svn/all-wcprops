@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/main/!svn/ver/48/TRUNK/examples/default/app/webroot
+END
+kickstart.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/main/!svn/ver/48/TRUNK/examples/default/app/webroot/kickstart.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/main/!svn/ver/48/TRUNK/examples/default/app/webroot/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/main/!svn/ver/48/TRUNK/examples/default/app/webroot/index.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/controllers
+END
+RegisterController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/controllers/RegisterController.class.php
+END
+LoginController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/controllers/LoginController.class.php
+END
+LogoutController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/controllers/LogoutController.class.php
+END
+BaseController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/controllers/BaseController.class.php
+END
+WelcomeController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/controllers/WelcomeController.class.php
+END
+ManagementController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/controllers/ManagementController.class.php
+END
+ProfileController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/controllers/ProfileController.class.php
+END

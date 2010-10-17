@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/main/!svn/ver/49/TRUNK/lib/framework/elements
+END
+redirect.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/main/!svn/ver/49/TRUNK/lib/framework/elements/redirect.tpl
+END
+validation_messages.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/main/!svn/ver/49/TRUNK/lib/framework/elements/validation_messages.tpl
+END
+view_file_missing.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/49/TRUNK/lib/framework/elements/view_file_missing.tpl
+END
+messages.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/main/!svn/ver/49/TRUNK/lib/framework/elements/messages.tpl
+END
+rss.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/main/!svn/ver/49/TRUNK/lib/framework/elements/rss.tpl
+END
+confirm.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/main/!svn/ver/49/TRUNK/lib/framework/elements/confirm.tpl
+END

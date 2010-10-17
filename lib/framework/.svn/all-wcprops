@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/main/!svn/ver/54/TRUNK/lib/framework
+END
+Validator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/main/!svn/ver/49/TRUNK/lib/framework/Validator.class.php
+END
+CookieCollection.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/main/!svn/ver/49/TRUNK/lib/framework/CookieCollection.class.php
+END
+RequestHandler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/main/!svn/ver/49/TRUNK/lib/framework/RequestHandler.class.php
+END
+DomainObjectManager.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/main/!svn/ver/49/TRUNK/lib/framework/DomainObjectManager.class.php
+END
+DomainObject.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/main/!svn/ver/49/TRUNK/lib/framework/DomainObject.class.php
+END
+Settings.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/main/!svn/ver/49/TRUNK/lib/framework/Settings.class.php
+END
+PhpViewResolver.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/main/!svn/ver/49/TRUNK/lib/framework/PhpViewResolver.class.php
+END
+SmartyFactory.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/main/!svn/ver/49/TRUNK/lib/framework/SmartyFactory.class.php
+END
+Configuration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/main/!svn/ver/49/TRUNK/lib/framework/Configuration.class.php
+END
+Mailer.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/main/!svn/ver/49/TRUNK/lib/framework/Mailer.class.php
+END
+DynamicObject.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/main/!svn/ver/49/TRUNK/lib/framework/DynamicObject.class.php
+END
+SiteMapProvider.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/main/!svn/ver/49/TRUNK/lib/framework/SiteMapProvider.class.php
+END
+Bootstrap.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/main/!svn/ver/49/TRUNK/lib/framework/Bootstrap.class.php
+END
+ResourceLoader.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/main/!svn/ver/49/TRUNK/lib/framework/ResourceLoader.class.php
+END
+Session.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/main/!svn/ver/49/TRUNK/lib/framework/Session.class.php
+END
+PluginInspector.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/main/!svn/ver/49/TRUNK/lib/framework/PluginInspector.class.php
+END
+ViewResolver.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/main/!svn/ver/49/TRUNK/lib/framework/ViewResolver.class.php
+END
+SmartyViewResolver.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/main/!svn/ver/49/TRUNK/lib/framework/SmartyViewResolver.class.php
+END
+Flash.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/main/!svn/ver/49/TRUNK/lib/framework/Flash.class.php
+END
+Trace.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/main/!svn/ver/49/TRUNK/lib/framework/Trace.class.php
+END
+init.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/main/!svn/ver/49/TRUNK/lib/framework/init.php
+END
+DynamicController.class.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/main/!svn/ver/49/TRUNK/lib/framework/DynamicController.class.tpl
+END
+Object.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/main/!svn/ver/49/TRUNK/lib/framework/Object.class.php
+END
+UrlBuilder.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/main/!svn/ver/49/TRUNK/lib/framework/UrlBuilder.class.php
+END
+JavascriptController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/49/TRUNK/lib/framework/JavascriptController.class.php
+END
+Trace.view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/main/!svn/ver/49/TRUNK/lib/framework/Trace.view.tpl
+END
+FileUtilities.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/main/!svn/ver/49/TRUNK/lib/framework/FileUtilities.class.php
+END
+HtmlBuilder.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/main/!svn/ver/49/TRUNK/lib/framework/HtmlBuilder.class.php
+END
+PluginInstaller.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/main/!svn/ver/49/TRUNK/lib/framework/PluginInstaller.class.php
+END
+Logger.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/main/!svn/ver/49/TRUNK/lib/framework/Logger.class.php
+END
+RemoteScriptingController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/main/!svn/ver/49/TRUNK/lib/framework/RemoteScriptingController.class.php
+END
+Controller.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/main/!svn/ver/49/TRUNK/lib/framework/Controller.class.php
+END

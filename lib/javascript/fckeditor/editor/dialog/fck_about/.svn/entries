@@ -1,0 +1,54 @@
+8
+
+dir
+54
+http://svn.rabbitphp.org/main/TRUNK/lib/javascript/fckeditor/editor/dialog/fck_about
+http://svn.rabbitphp.org/main
+
+
+
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+60cfdba4-8d46-0410-9aa5-e545ed86bc99
+
+logo_fredck.gif
+file
+
+
+
+
+2010-10-17T17:54:44.000000Z
+23e6cd9ae92d48a472c1e5c6f03218aa
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+has-props
+
+logo_fckeditor.gif
+file
+
+
+
+
+2010-10-17T17:54:44.000000Z
+f36dd545b6973ec5dcaca671e69305fd
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+has-props
+

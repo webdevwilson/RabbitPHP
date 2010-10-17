@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/db/port
+END
+epDbPortSqlite.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/db/port/epDbPortSqlite.php
+END
+epDbPortPostgres.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/db/port/epDbPortPostgres.php
+END

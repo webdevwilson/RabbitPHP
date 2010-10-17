@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/query
+END
+epQueryLexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/query/epQueryLexer.php
+END
+bnf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/query/bnf.txt
+END
+epQueryBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/query/epQueryBuilder.php
+END
+epQueryParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/query/epQueryParser.php
+END
+epQueryPath.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/query/epQueryPath.php
+END

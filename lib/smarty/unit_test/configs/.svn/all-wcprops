@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/main/!svn/ver/49/TRUNK/lib/smarty/unit_test/configs
+END
+globals_double_quotes.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/main/!svn/ver/49/TRUNK/lib/smarty/unit_test/configs/globals_double_quotes.conf
+END
+globals_single_quotes.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/main/!svn/ver/49/TRUNK/lib/smarty/unit_test/configs/globals_single_quotes.conf
+END

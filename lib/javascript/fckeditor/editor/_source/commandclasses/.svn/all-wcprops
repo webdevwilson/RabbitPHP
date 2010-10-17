@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/main/!svn/ver/49/TRUNK/lib/javascript/fckeditor/editor/_source/commandclasses
+END
+fck_othercommands.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/main/!svn/ver/49/TRUNK/lib/javascript/fckeditor/editor/_source/commandclasses/fck_othercommands.js
+END
+fcktextcolorcommand.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/main/!svn/ver/49/TRUNK/lib/javascript/fckeditor/editor/_source/commandclasses/fcktextcolorcommand.js
+END
+fcknamedcommand.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/main/!svn/ver/49/TRUNK/lib/javascript/fckeditor/editor/_source/commandclasses/fcknamedcommand.js
+END
+fckpasteplaintextcommand.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/main/!svn/ver/49/TRUNK/lib/javascript/fckeditor/editor/_source/commandclasses/fckpasteplaintextcommand.js
+END
+fckspellcheckcommand_gecko.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/main/!svn/ver/49/TRUNK/lib/javascript/fckeditor/editor/_source/commandclasses/fckspellcheckcommand_gecko.js
+END
+fcktablecommand.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/main/!svn/ver/49/TRUNK/lib/javascript/fckeditor/editor/_source/commandclasses/fcktablecommand.js
+END
+fckpastewordcommand.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/main/!svn/ver/49/TRUNK/lib/javascript/fckeditor/editor/_source/commandclasses/fckpastewordcommand.js
+END
+fckspellcheckcommand_ie.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/main/!svn/ver/49/TRUNK/lib/javascript/fckeditor/editor/_source/commandclasses/fckspellcheckcommand_ie.js
+END
+fckfitwindow.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/main/!svn/ver/49/TRUNK/lib/javascript/fckeditor/editor/_source/commandclasses/fckfitwindow.js
+END
+fckstylecommand.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/main/!svn/ver/49/TRUNK/lib/javascript/fckeditor/editor/_source/commandclasses/fckstylecommand.js
+END

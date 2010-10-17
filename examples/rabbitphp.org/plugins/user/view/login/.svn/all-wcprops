@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/view/login
+END
+forgot_password.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/view/login/forgot_password.tpl
+END
+form.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/view/login/form.tpl
+END

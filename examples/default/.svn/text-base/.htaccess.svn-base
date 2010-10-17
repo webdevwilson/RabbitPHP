@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+   RewriteEngine on
+   
+   #RewriteCond %{REQUEST_FILENAME} !-d
+   #RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteRule ^$ app/webroot/     [L]
+   
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteRule (.*) app/webroot/$1 [L]
+   
+</IfModule>
+
+Options All -Indexes

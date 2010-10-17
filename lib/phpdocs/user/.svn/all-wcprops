@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/main/!svn/ver/49/TRUNK/lib/phpdocs/user
+END
+default.ini
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/main/!svn/ver/49/TRUNK/lib/phpdocs/user/default.ini
+END
+demo.ini
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/main/!svn/ver/49/TRUNK/lib/phpdocs/user/demo.ini
+END
+makedocs.ini
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/main/!svn/ver/49/TRUNK/lib/phpdocs/user/makedocs.ini
+END
+error.ini
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/main/!svn/ver/49/TRUNK/lib/phpdocs/user/error.ini
+END
+pear-makedocs.ini
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/main/!svn/ver/49/TRUNK/lib/phpdocs/user/pear-makedocs.ini
+END
+testdocbook.ini
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/main/!svn/ver/49/TRUNK/lib/phpdocs/user/testdocbook.ini
+END

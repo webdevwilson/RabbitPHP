@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# copy defaults
+cp ./rabbitphp/examples/default/app ./ -Rf
+cp ./rabbitphp/examples/default/.htaccess ./
+cp ./rabbitphp/lib/framework/init.php

@@ -1,0 +1,89 @@
+8
+
+dir
+54
+http://svn.rabbitphp.org/main/TRUNK/lib/ezpdo/tests/classes/extensive/src/Item
+http://svn.rabbitphp.org/main
+
+
+
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+60cfdba4-8d46-0410-9aa5-e545ed86bc99
+
+eptVideo.php
+file
+
+
+
+
+2010-10-17T17:54:40.000000Z
+26f6600212a05406ec0fcdaf23784412
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+has-props
+
+Video
+dir
+
+eptBook.php
+file
+
+
+
+
+2010-10-17T17:54:40.000000Z
+b6d1b98e419869bd6a8c293f7629fa71
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+has-props
+
+Book
+dir
+
+eptMagazine.php
+file
+
+
+
+
+2010-10-17T17:54:40.000000Z
+33ad8fb79f98ae7c7c2f45cf63c4e3c0
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+has-props
+
+eptRecording.php
+file
+
+
+
+
+2010-10-17T17:54:40.000000Z
+5af8d5c8cfb0cf0046307f902191e280
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+has-props
+
+Recording
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/view/layouts
+END
+default.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/view/layouts/default.tpl
+END
+default.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/view/layouts/default.php
+END
+default copy.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/view/layouts/default%20copy.tpl
+END

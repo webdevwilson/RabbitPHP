@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/templates/peardoc2/templates
+END
+class_summary.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/templates/peardoc2/templates/class_summary.tpl
+END
+tutorial.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/templates/peardoc2/templates/tutorial.tpl
+END
+ivars.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/templates/peardoc2/templates/ivars.tpl
+END

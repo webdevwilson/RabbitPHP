@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/main/!svn/ver/48/TRUNK/examples/default/app/controllers
+END
+CrudFactoryController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/main/!svn/ver/48/TRUNK/examples/default/app/controllers/CrudFactoryController.class.php
+END
+PluginManagerController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/main/!svn/ver/48/TRUNK/examples/default/app/controllers/PluginManagerController.class.php
+END
+CrudController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/main/!svn/ver/48/TRUNK/examples/default/app/controllers/CrudController.class.php
+END

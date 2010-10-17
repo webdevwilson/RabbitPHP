@@ -1,0 +1,52 @@
+8
+
+dir
+54
+http://svn.rabbitphp.org/main/TRUNK/lib/javascript/fckeditor/_samples/cfm
+http://svn.rabbitphp.org/main
+
+
+
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+60cfdba4-8d46-0410-9aa5-e545ed86bc99
+
+sample01.cfm
+file
+
+
+
+
+2010-10-17T17:54:48.000000Z
+95ccd1b6a5d2f417366e8eed9bb92f1f
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+
+sample02_mx.cfm
+file
+
+
+
+
+2010-10-17T17:54:48.000000Z
+6500f5bc904aa4146647c5090a2d1022
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+

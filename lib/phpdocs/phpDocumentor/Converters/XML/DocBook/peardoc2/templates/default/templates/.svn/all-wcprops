@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/peardoc2/templates/default/templates
+END
+class_summary.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/peardoc2/templates/default/templates/class_summary.tpl
+END
+globals.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/peardoc2/templates/default/templates/globals.tpl
+END
+tutorial.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/peardoc2/templates/default/templates/tutorial.tpl
+END
+ivars.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/peardoc2/templates/default/templates/ivars.tpl
+END
+class.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/peardoc2/templates/default/templates/class.tpl
+END
+var.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/peardoc2/templates/default/templates/var.tpl
+END
+package.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/peardoc2/templates/default/templates/package.tpl
+END
+constants.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/peardoc2/templates/default/templates/constants.tpl
+END
+errors.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/peardoc2/templates/default/templates/errors.tpl
+END
+imethods.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/peardoc2/templates/default/templates/imethods.tpl
+END
+category.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/peardoc2/templates/default/templates/category.tpl
+END
+docblock.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/peardoc2/templates/default/templates/docblock.tpl
+END
+method.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/XML/DocBook/peardoc2/templates/default/templates/method.tpl
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/query
+END
+epTestQueryLexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/query/epTestQueryLexer.php
+END
+epTestQueryTmp.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/query/epTestQueryTmp.php
+END
+config.ini
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/query/config.ini
+END
+epTestQueryRuntime.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/query/epTestQueryRuntime.php
+END
+epTestQueryBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/query/epTestQueryBuilder.php
+END
+epTestQueryParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/query/epTestQueryParser.php
+END
+epTestQueryPath.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/query/epTestQueryPath.php
+END

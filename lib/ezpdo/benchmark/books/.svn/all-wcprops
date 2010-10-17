@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/main/!svn/ver/49/TRUNK/lib/ezpdo/benchmark/books
+END
+print.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/main/!svn/ver/49/TRUNK/lib/ezpdo/benchmark/books/print.php
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/main/!svn/ver/49/TRUNK/lib/ezpdo/benchmark/books/config.xml
+END
+find.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/main/!svn/ver/49/TRUNK/lib/ezpdo/benchmark/books/find.php
+END
+delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/main/!svn/ver/49/TRUNK/lib/ezpdo/benchmark/books/delete.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/main/!svn/ver/49/TRUNK/lib/ezpdo/benchmark/books/update.php
+END
+delete1.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/main/!svn/ver/49/TRUNK/lib/ezpdo/benchmark/books/delete1.php
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/main/!svn/ver/49/TRUNK/lib/ezpdo/benchmark/books/readme
+END
+add.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/main/!svn/ver/49/TRUNK/lib/ezpdo/benchmark/books/add.php
+END
+all.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/main/!svn/ver/49/TRUNK/lib/ezpdo/benchmark/books/all.php
+END
+common.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/main/!svn/ver/49/TRUNK/lib/ezpdo/benchmark/books/common.php
+END

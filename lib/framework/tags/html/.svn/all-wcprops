@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/main/!svn/ver/54/TRUNK/lib/framework/tags/html
+END
+function.script_export.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/main/!svn/ver/49/TRUNK/lib/framework/tags/html/function.script_export.php
+END
+block.head.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/main/!svn/ver/49/TRUNK/lib/framework/tags/html/block.head.php
+END
+function.input.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/main/!svn/ver/54/TRUNK/lib/framework/tags/html/function.input.php
+END
+function.ajaxlink.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/main/!svn/ver/49/TRUNK/lib/framework/tags/html/function.ajaxlink.php
+END
+block.link.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/main/!svn/ver/49/TRUNK/lib/framework/tags/html/block.link.php
+END
+function.script.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/main/!svn/ver/49/TRUNK/lib/framework/tags/html/function.script.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/main/!svn/ver/47/TRUNK/build
+END
+dist.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/main/!svn/ver/47/TRUNK/build/dist.sh
+END
+generatedocs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/main/!svn/ver/47/TRUNK/build/generatedocs.sh
+END

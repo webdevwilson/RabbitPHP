@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates
+END
+include.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/include.tpl
+END
+pagenumbering.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/pagenumbering.tpl
+END
+params.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/params.tpl
+END
+function.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/function.tpl
+END
+classtree.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/classtree.tpl
+END
+toc.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/toc.tpl
+END
+const.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/const.tpl
+END
+packagepage.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/packagepage.tpl
+END
+var.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/var.tpl
+END
+source_loop.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/source_loop.tpl
+END
+define.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/define.tpl
+END
+source_title_page.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/source_title_page.tpl
+END
+footer.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/footer.tpl
+END
+global.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/global.tpl
+END
+filesource.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/filesource.tpl
+END
+todolist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/todolist.tpl
+END
+tutorial.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/tutorial.tpl
+END
+class.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/class.tpl
+END
+appendix_title_page.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/appendix_title_page.tpl
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/index.tpl
+END
+ric_title_page.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/ric_title_page.tpl
+END
+examplesource.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/examplesource.tpl
+END
+page.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/page.tpl
+END
+newpackage_header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/newpackage_header.tpl
+END
+ric.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/ric.tpl
+END
+title_page.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/title_page.tpl
+END
+method.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/method.tpl
+END
+docblock.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/templates/default/templates/docblock.tpl
+END

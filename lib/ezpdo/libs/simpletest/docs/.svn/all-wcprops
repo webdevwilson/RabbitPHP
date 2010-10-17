@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/docs
+END
+expectation_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/docs/expectation_documentation.html
+END
+web_tester_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/docs/web_tester_documentation.html
+END
+server_stubs_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/docs/server_stubs_documentation.html
+END
+partial_mocks_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/docs/partial_mocks_documentation.html
+END
+group_test_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/docs/group_test_documentation.html
+END
+overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/docs/overview.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/docs/index.html
+END
+unit_test_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/docs/unit_test_documentation.html
+END
+form_testing_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/docs/form_testing_documentation.html
+END
+mock_objects_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/docs/mock_objects_documentation.html
+END
+reporter_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/docs/reporter_documentation.html
+END

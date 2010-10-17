@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/main/!svn/ver/48/TRUNK/examples/default/app/view/plugin_manager
+END
+browse.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/main/!svn/ver/48/TRUNK/examples/default/app/view/plugin_manager/browse.tpl
+END
+install.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/main/!svn/ver/48/TRUNK/examples/default/app/view/plugin_manager/install.tpl
+END

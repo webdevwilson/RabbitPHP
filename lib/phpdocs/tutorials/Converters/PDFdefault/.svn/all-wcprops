@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/main/!svn/ver/49/TRUNK/lib/phpdocs/tutorials/Converters/PDFdefault
+END
+PDFParser.cls
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/main/!svn/ver/49/TRUNK/lib/phpdocs/tutorials/Converters/PDFdefault/PDFParser.cls
+END
+PDFdefaultConverter.cls
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/main/!svn/ver/49/TRUNK/lib/phpdocs/tutorials/Converters/PDFdefault/PDFdefaultConverter.cls
+END

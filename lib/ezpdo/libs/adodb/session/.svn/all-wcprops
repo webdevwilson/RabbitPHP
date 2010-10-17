@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/session
+END
+adodb-compress-gzip.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/session/adodb-compress-gzip.php
+END
+adodb-sessions.mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/session/adodb-sessions.mysql.sql
+END
+adodb-sessions.oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/session/adodb-sessions.oracle.sql
+END
+crypt.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/session/crypt.inc.php
+END
+adodb-session.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/session/adodb-session.php
+END
+adodb-cryptsession.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/session/adodb-cryptsession.php
+END
+adodb-sess.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/session/adodb-sess.txt
+END
+session_schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/session/session_schema.xml
+END
+adodb-encrypt-md5.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/session/adodb-encrypt-md5.php
+END
+adodb-encrypt-secret.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/session/adodb-encrypt-secret.php
+END
+adodb-compress-bzip2.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/session/adodb-compress-bzip2.php
+END
+adodb-encrypt-mcrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/session/adodb-encrypt-mcrypt.php
+END
+adodb-session-clob.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/session/adodb-session-clob.php
+END
+adodb-sessions.oracle.clob.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/session/adodb-sessions.oracle.clob.sql
+END

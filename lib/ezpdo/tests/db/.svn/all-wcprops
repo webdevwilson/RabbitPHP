@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/db
+END
+epTestDb.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/db/epTestDb.php
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/db/config.xml
+END
+epTestDbDsn.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/db/epTestDbDsn.php
+END

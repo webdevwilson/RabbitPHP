@@ -1,0 +1,43 @@
+8
+
+dir
+54
+http://svn.rabbitphp.org/main/TRUNK/lib/phpdocs/phpDocumentor/Converters/HTML/Smarty/templates/PHP
+http://svn.rabbitphp.org/main
+
+
+
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+60cfdba4-8d46-0410-9aa5-e545ed86bc99
+
+options.ini
+file
+
+
+
+
+2010-10-17T17:54:36.000000Z
+5f5f38dba9fff2e4663606c5e9fa7d4a
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+
+templates
+dir
+

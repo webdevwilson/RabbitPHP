@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/main/!svn/ver/49/TRUNK/lib/ezpdo/scripts
+END
+epc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/main/!svn/ver/49/TRUNK/lib/ezpdo/scripts/epc.sh
+END
+pear.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/main/!svn/ver/49/TRUNK/lib/ezpdo/scripts/pear.sh
+END
+ept.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/main/!svn/ver/49/TRUNK/lib/ezpdo/scripts/ept.sh
+END
+epfix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/main/!svn/ver/49/TRUNK/lib/ezpdo/scripts/epfix.sh
+END
+ver.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/main/!svn/ver/49/TRUNK/lib/ezpdo/scripts/ver.sh
+END
+check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/main/!svn/ver/49/TRUNK/lib/ezpdo/scripts/check.sh
+END
+setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/main/!svn/ver/49/TRUNK/lib/ezpdo/scripts/setup.sh
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/main/!svn/ver/49/TRUNK/lib/ezpdo/scripts/clean.sh
+END

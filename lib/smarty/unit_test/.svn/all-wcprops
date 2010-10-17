@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/main/!svn/ver/49/TRUNK/lib/smarty/unit_test
+END
+smarty_unit_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/main/!svn/ver/49/TRUNK/lib/smarty/unit_test/smarty_unit_test.php
+END
+test_cases.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/main/!svn/ver/49/TRUNK/lib/smarty/unit_test/test_cases.php
+END
+smarty_unit_test_gui.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/main/!svn/ver/49/TRUNK/lib/smarty/unit_test/smarty_unit_test_gui.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/main/!svn/ver/49/TRUNK/lib/smarty/unit_test/config.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/main/!svn/ver/49/TRUNK/lib/smarty/unit_test/README
+END

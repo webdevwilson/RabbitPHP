@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/main/!svn/ver/49/TRUNK/lib/phpdocs/scripts
+END
+tokenizer_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/main/!svn/ver/49/TRUNK/lib/phpdocs/scripts/tokenizer_test.php
+END
+create_package.xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/main/!svn/ver/49/TRUNK/lib/phpdocs/scripts/create_package.xml.php
+END
+create_examples.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/main/!svn/ver/49/TRUNK/lib/phpdocs/scripts/create_examples.php
+END
+add_cvs.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/main/!svn/ver/49/TRUNK/lib/phpdocs/scripts/add_cvs.php
+END
+makedoc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/main/!svn/ver/49/TRUNK/lib/phpdocs/scripts/makedoc.sh
+END

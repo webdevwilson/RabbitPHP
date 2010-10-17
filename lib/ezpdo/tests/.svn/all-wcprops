@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests
+END
+coverage.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/coverage.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/index.php
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/readme
+END
+runtests.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/runtests.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/webroot
+END
+kickstart.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/webroot/kickstart.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/webroot/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/webroot/index.php
+END

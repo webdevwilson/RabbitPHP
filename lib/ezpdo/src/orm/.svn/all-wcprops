@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/orm
+END
+epObjectRelation.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/orm/epObjectRelation.php
+END
+epFieldMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/orm/epFieldMap.php
+END
+epClassMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/orm/epClassMap.php
+END

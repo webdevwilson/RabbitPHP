@@ -1,0 +1,14 @@
+BUILD PROCESS
+* initial commit to subversion
+* nightly subversion commit
+* nightly build for download
+* nightly documentation build
+
+DOCUMENTATION
+* quick start / tutorials for website
+* topic documentation ( view, model, validation, controllers )
+* cleanup phpdocs in plugins
+* flesh out framework phpdocs
+
+INSTALLATION
+* installation script

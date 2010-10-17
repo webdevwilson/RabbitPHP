@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/main/!svn/ver/49/TRUNK/lib/ezpdo/examples/cyclic/one
+END
+print.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/main/!svn/ver/49/TRUNK/lib/ezpdo/examples/cyclic/one/print.php
+END
+print_a.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/main/!svn/ver/49/TRUNK/lib/ezpdo/examples/cyclic/one/print_a.php
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/main/!svn/ver/49/TRUNK/lib/ezpdo/examples/cyclic/one/config.xml
+END
+delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/main/!svn/ver/49/TRUNK/lib/ezpdo/examples/cyclic/one/delete.php
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/main/!svn/ver/49/TRUNK/lib/ezpdo/examples/cyclic/one/readme
+END
+add.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/main/!svn/ver/49/TRUNK/lib/ezpdo/examples/cyclic/one/add.php
+END

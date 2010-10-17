@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/xsl
+END
+remove-0.2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/xsl/remove-0.2.xsl
+END
+convert-0.1-0.2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/xsl/convert-0.1-0.2.xsl
+END
+convert-0.2-0.1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/xsl/convert-0.2-0.1.xsl
+END

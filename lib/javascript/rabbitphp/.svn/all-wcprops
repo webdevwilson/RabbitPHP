@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/main/!svn/ver/54/TRUNK/lib/javascript/rabbitphp
+END
+calendar.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/main/!svn/ver/54/TRUNK/lib/javascript/rabbitphp/calendar.js
+END
+remote.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/main/!svn/ver/49/TRUNK/lib/javascript/rabbitphp/remote.js
+END
+dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/main/!svn/ver/49/TRUNK/lib/javascript/rabbitphp/dialog.js
+END
+redirect.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/main/!svn/ver/49/TRUNK/lib/javascript/rabbitphp/redirect.js
+END
+inline_edit.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/main/!svn/ver/49/TRUNK/lib/javascript/rabbitphp/inline_edit.js
+END

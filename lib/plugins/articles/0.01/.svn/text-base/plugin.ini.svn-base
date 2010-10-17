@@ -1,0 +1,3 @@
+name=Article Management
+version=0.01
+requires=vdir:0.01,tags:0.01

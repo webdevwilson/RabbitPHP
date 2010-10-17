@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/main/!svn/ver/49/TRUNK/lib/ezpdo
+END
+license
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/main/!svn/ver/49/TRUNK/lib/ezpdo/license
+END
+ezpdo.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/main/!svn/ver/49/TRUNK/lib/ezpdo/ezpdo.php
+END
+ezpdo_runtime.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/main/!svn/ver/49/TRUNK/lib/ezpdo/ezpdo_runtime.php
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/main/!svn/ver/49/TRUNK/lib/ezpdo/readme
+END

@@ -1,0 +1,16 @@
+body { font-family: eurostile, verdana; }
+
+a:link,
+a:visited   { color: #26c701; }
+a:hover     { color: #26c701; }
+
+a.ajaxlink         { color: #26c701;}
+a.ajaxlink:link    { color: #26c701;}
+a.ajaxlink:visited { color: #26c701;}
+a.ajaxlink:hover   { text-decoration: underline;  cursor: pointer; color: #26c701}
+
+#rightcolumn > div.content { padding: 10px; }
+
+div.documentation-quicklinks { text-align: center; }
+div.documentation-quicklinks a { text-decoration: underline; }
+div.code { margin: 5px; border: 2px solid #ccc; background-color: #f9f9f9; }

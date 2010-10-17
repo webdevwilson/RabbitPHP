@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/view/profile
+END
+change_password.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/view/profile/change_password.tpl
+END
+view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/main/!svn/ver/48/TRUNK/examples/rabbitphp.org/plugins/user/view/profile/view.tpl
+END

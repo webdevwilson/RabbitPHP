@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/base
+END
+epConfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/base/epConfig.php
+END
+epBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/base/epBase.php
+END
+epOverload.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/base/epOverload.php
+END
+epConfigurableWithLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/base/epConfigurableWithLog.php
+END
+epConfigurable.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/base/epConfigurable.php
+END
+epUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/base/epUtils.php
+END
+epLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/base/epLog.php
+END
+epContainer.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/base/epContainer.php
+END

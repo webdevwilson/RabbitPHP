@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/main/!svn/ver/49/TRUNK/lib/ezpdo/examples/books
+END
+print.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/main/!svn/ver/49/TRUNK/lib/ezpdo/examples/books/print.php
+END
+config.ini
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/main/!svn/ver/49/TRUNK/lib/ezpdo/examples/books/config.ini
+END
+find.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/main/!svn/ver/49/TRUNK/lib/ezpdo/examples/books/find.php
+END
+delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/main/!svn/ver/49/TRUNK/lib/ezpdo/examples/books/delete.php
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/main/!svn/ver/49/TRUNK/lib/ezpdo/examples/books/readme
+END
+timing.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/main/!svn/ver/49/TRUNK/lib/ezpdo/examples/books/timing.php
+END
+add.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/main/!svn/ver/49/TRUNK/lib/ezpdo/examples/books/add.php
+END

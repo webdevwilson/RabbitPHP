@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/db
+END
+epDb.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/db/epDb.php
+END
+epDbPdo.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/db/epDbPdo.php
+END
+epDbDsn.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/db/epDbDsn.php
+END
+epDbObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/db/epDbObject.php
+END
+epDbPortable.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/db/epDbPortable.php
+END
+epDbAdodb.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/db/epDbAdodb.php
+END
+epDbAdodbPdo.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/db/epDbAdodbPdo.php
+END
+epDbPeardb.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/main/!svn/ver/49/TRUNK/lib/ezpdo/src/db/epDbPeardb.php
+END

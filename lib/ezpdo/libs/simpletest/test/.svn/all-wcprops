@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test
+END
+real_sites_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/real_sites_test.php
+END
+options_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/options_test.php
+END
+all_tests.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/all_tests.php
+END
+remote_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/remote_test.php
+END
+parser_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/parser_test.php
+END
+dumper_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/dumper_test.php
+END
+user_agent_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/user_agent_test.php
+END
+shell_tester_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/shell_tester_test.php
+END
+live_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/live_test.php
+END
+xml_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/xml_test.php
+END
+simple_mock_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/simple_mock_test.php
+END
+unit_tests.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/unit_tests.php
+END
+url_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/url_test.php
+END
+form_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/form_test.php
+END
+visual_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/visual_test.php
+END
+web_tester_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/web_tester_test.php
+END
+shell_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/shell_test.php
+END
+tag_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/tag_test.php
+END
+page_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/page_test.php
+END
+errors_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/errors_test.php
+END
+frames_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/frames_test.php
+END
+http_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/http_test.php
+END
+authentication_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/authentication_test.php
+END
+adapter_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/adapter_test.php
+END
+expectation_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/expectation_test.php
+END
+browser_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/browser_test.php
+END
+acceptance_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/acceptance_test.php
+END
+socket_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/simpletest/test/socket_test.php
+END

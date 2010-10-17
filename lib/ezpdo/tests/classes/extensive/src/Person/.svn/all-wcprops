@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/classes/extensive/src/Person
+END
+eptCustomer.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/classes/extensive/src/Person/eptCustomer.php
+END
+eptEditor.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/classes/extensive/src/Person/eptEditor.php
+END
+eptReviewer.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/classes/extensive/src/Person/eptReviewer.php
+END
+eptEmployee.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/main/!svn/ver/49/TRUNK/lib/ezpdo/tests/classes/extensive/src/Person/eptEmployee.php
+END

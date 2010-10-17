@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/perf
+END
+perf-db2.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/perf/perf-db2.inc.php
+END
+perf-informix.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/perf/perf-informix.inc.php
+END
+perf-mssql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/perf/perf-mssql.inc.php
+END
+perf-oci8.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/perf/perf-oci8.inc.php
+END
+perf-mysql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/perf/perf-mysql.inc.php
+END
+perf-postgres.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/main/!svn/ver/49/TRUNK/lib/ezpdo/libs/adodb/perf/perf-postgres.inc.php
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/main/!svn/ver/49/TRUNK/lib/phpdocs/Documentation/tests/DocBlock_Lexer
+END
+test_code.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/main/!svn/ver/49/TRUNK/lib/phpdocs/Documentation/tests/DocBlock_Lexer/test_code.phpt
+END
+test_internal.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/main/!svn/ver/49/TRUNK/lib/phpdocs/Documentation/tests/DocBlock_Lexer/test_internal.phpt
+END
+test_twoline.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/main/!svn/ver/49/TRUNK/lib/phpdocs/Documentation/tests/DocBlock_Lexer/test_twoline.phpt
+END
+test_simplelist.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/main/!svn/ver/49/TRUNK/lib/phpdocs/Documentation/tests/DocBlock_Lexer/test_simplelist.phpt
+END
+setup.php.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/main/!svn/ver/49/TRUNK/lib/phpdocs/Documentation/tests/DocBlock_Lexer/setup.php.inc
+END
+test_pre.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/main/!svn/ver/49/TRUNK/lib/phpdocs/Documentation/tests/DocBlock_Lexer/test_pre.phpt
+END
+test_singleline.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/main/!svn/ver/49/TRUNK/lib/phpdocs/Documentation/tests/DocBlock_Lexer/test_singleline.phpt
+END
+test_inlinetags.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/main/!svn/ver/49/TRUNK/lib/phpdocs/Documentation/tests/DocBlock_Lexer/test_inlinetags.phpt
+END
+test_tags.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/main/!svn/ver/49/TRUNK/lib/phpdocs/Documentation/tests/DocBlock_Lexer/test_tags.phpt
+END
+test_empty.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/main/!svn/ver/49/TRUNK/lib/phpdocs/Documentation/tests/DocBlock_Lexer/test_empty.phpt
+END
+test_eschtml.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/main/!svn/ver/49/TRUNK/lib/phpdocs/Documentation/tests/DocBlock_Lexer/test_eschtml.phpt
+END
+test_samp.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/main/!svn/ver/49/TRUNK/lib/phpdocs/Documentation/tests/DocBlock_Lexer/test_samp.phpt
+END
+test_kbd.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/main/!svn/ver/49/TRUNK/lib/phpdocs/Documentation/tests/DocBlock_Lexer/test_kbd.phpt
+END
+test_br.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/main/!svn/ver/49/TRUNK/lib/phpdocs/Documentation/tests/DocBlock_Lexer/test_br.phpt
+END
+test_html.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/main/!svn/ver/49/TRUNK/lib/phpdocs/Documentation/tests/DocBlock_Lexer/test_html.phpt
+END

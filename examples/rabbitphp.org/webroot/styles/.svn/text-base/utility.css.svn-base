@@ -1,0 +1,26 @@
+.clearfloat { clear: both; width: 100%; }
+.clearleft { clear: left; }
+.clearright{ clear: right; }
+.clearnone { clear: none; }
+.fullwidth { width: 100%; }
+.floatleft { float: left; }
+.floatright{ float: right; }
+.textcenter { text-align: center; }
+.textright  { text-align: right; }
+.margintop { margin-top: 5px; }
+.marginright { margin-right: 5px; }
+.marginbottom { margin-bottom: 5px; }
+.marginleft { margin-left: 5px; }
+.nomargin { margin: 0px; }
+.nopadding{ padding: 0px; }
+.noborder{ border-width: 0px; }
+.nodisplay{ display: none; }
+
+.message{ color: #0A3; }
+.warning{ color: #CC0; }
+.error 	{ color: #F00; }
+
+div.flash { font-weight: bold; font-size: 1em; padding: 10px; margin: 5px 0px 5px 0px; }
+div.message { background-color: #E0FFFF; border: 2px solid #0A3; }
+div.warning { background-color: #FFC; border: 2px solid #CC0; }
+div.error   { background-color: #FFE0E0; border: 2px solid #F00; }

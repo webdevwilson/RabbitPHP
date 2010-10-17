@@ -1,0 +1,68 @@
+8
+
+dir
+54
+http://svn.rabbitphp.org/main/TRUNK/lib/javascript/fckeditor/editor/skins/silver
+http://svn.rabbitphp.org/main
+
+
+
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+60cfdba4-8d46-0410-9aa5-e545ed86bc99
+
+fck_editor.css
+file
+
+
+
+
+2010-10-17T17:54:46.000000Z
+b36c88d043a5e0bfec527690ba586c8d
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+
+images
+dir
+
+fck_strip.gif
+file
+
+
+
+
+2010-10-17T17:54:46.000000Z
+00187b4e1266a9591662dd3e8923171e
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+has-props
+
+fck_dialog.css
+file
+
+
+
+
+2010-10-17T17:54:46.000000Z
+b611682d5850ae26d46f5cafebc9e7d9
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/main/!svn/ver/48/TRUNK/examples/default
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/main/!svn/ver/48/TRUNK/examples/default/.htaccess
+END

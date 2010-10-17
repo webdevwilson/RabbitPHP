@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/main/!svn/ver/54/TRUNK/lib/plugins/tags/0.01/view/tag_manager
+END
+delete.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/main/!svn/ver/54/TRUNK/lib/plugins/tags/0.01/view/tag_manager/delete.tpl
+END
+update.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/main/!svn/ver/54/TRUNK/lib/plugins/tags/0.01/view/tag_manager/update.tpl
+END
+create.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/main/!svn/ver/54/TRUNK/lib/plugins/tags/0.01/view/tag_manager/create.tpl
+END
+listall.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/main/!svn/ver/54/TRUNK/lib/plugins/tags/0.01/view/tag_manager/listall.tpl
+END
+read.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/main/!svn/ver/54/TRUNK/lib/plugins/tags/0.01/view/tag_manager/read.tpl
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default
+END
+class.phpdocpdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/class.phpdocpdf.php
+END
+class.ezpdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/class.ezpdf.php
+END
+class.pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/class.pdf.php
+END
+PDFdefaultConverter.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/PDFdefaultConverter.inc
+END
+ParserPDF.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/PDF/default/ParserPDF.inc
+END

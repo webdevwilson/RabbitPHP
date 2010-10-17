@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/HTML/Smarty/templates/default/templates/media
+END
+print.css
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/HTML/Smarty/templates/default/templates/media/print.css
+END
+layout.css
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/HTML/Smarty/templates/default/templates/media/layout.css
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/main/!svn/ver/49/TRUNK/lib/phpdocs/phpDocumentor/Converters/HTML/Smarty/templates/default/templates/media/style.css
+END

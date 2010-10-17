@@ -1,0 +1,68 @@
+8
+
+dir
+54
+http://svn.rabbitphp.org/main/TRUNK/lib/javascript/fckeditor/editor/skins/office2003
+http://svn.rabbitphp.org/main
+
+
+
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+60cfdba4-8d46-0410-9aa5-e545ed86bc99
+
+fck_editor.css
+file
+
+
+
+
+2010-10-17T17:54:45.000000Z
+4938043ac75884210effadf1f28a478f
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+
+images
+dir
+
+fck_strip.gif
+file
+
+
+
+
+2010-10-17T17:54:45.000000Z
+fa400f7aa96703c2ba23c1997fc8437d
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+has-props
+
+fck_dialog.css
+file
+
+
+
+
+2010-10-17T17:54:45.000000Z
+073dfac71e93e72b3e3e565a89acb93a
+2008-02-20T02:41:14.853942Z
+1
+kwilson
+
